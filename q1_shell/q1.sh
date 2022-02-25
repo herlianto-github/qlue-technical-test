@@ -1,0 +1,1 @@
+ps | grep httpd | wc -l
